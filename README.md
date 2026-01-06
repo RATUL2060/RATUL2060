@@ -80,5 +80,9 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/></a>
   <a href="#"><img src="https://citraweb.com/images/imgbrandproduk/1.jpg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
+
 </p>
 
