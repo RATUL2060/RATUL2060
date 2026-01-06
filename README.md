@@ -39,6 +39,8 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+
+</p>
 <p align="left">
   <a href="https://github.com/RATUL2060" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
@@ -48,6 +50,9 @@
   </a>
   <a href="https://instagram.com/dhrubo_ratul2060" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
+  <a href="https://ratul2060.github.io" target="_blank" title="View CV">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" alt="CV" />
   </a>
 </p>
 
