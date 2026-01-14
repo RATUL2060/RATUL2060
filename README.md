@@ -75,7 +75,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
   <a href="#"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/></a>
   <a href="#"><img src="https://citraweb.com/images/imgbrandproduk/1.jpg" width="40" height="40"/></a>
