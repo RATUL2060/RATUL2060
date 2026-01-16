@@ -38,38 +38,58 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
-    <!-- LEFT: Social -->
-    <td align="center" width="60%">
+
+<!-- LEFT COLUMN -->
+  <td width="60%" align="center" valign="middle">
       <strong>Connect with me</strong><br/><br/>
 
-  <a href="https://github.com/RATUL2060" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://linkedin.com/in/dhrubo-ratul-b-a12253236" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://instagram.com/dhrubo_ratul2060" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-      </a>
+  <table align="center">
+        <tr>
+          <td align="center">
+            <a href="https://github.com/RATUL2060" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="42"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://linkedin.com/in/dhrubo-ratul-b-a12253236" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="42"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://instagram.com/dhrubo_ratul2060" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-<!-- RIGHT: CV + Portfolio -->
-  <td align="center" width="40%">
+    
+<!-- RIGHT COLUMN -->
+  <td width="40%" align="center" valign="middle">
       <strong>CV & Portfolio</strong><br/><br/>
 
-  <a href="https://ratul2060.github.io" target="_blank" title="View CV">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://ratul2060.github.io/portfolio" target="_blank" title="Portfolio Website">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" />
-      </a>
+  <table align="center">
+        <tr>
+          <td align="center">
+            <a href="https://ratul2060.github.io" target="_blank">
+              <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="42"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://ratul2060.github.io/portfolio" target="_blank">
+              <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="42"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
+
   </tr>
 </table>
+
+
 
 
 
