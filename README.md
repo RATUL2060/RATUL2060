@@ -38,23 +38,40 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<table>
+  <tr>
+    <!-- LEFT: Social -->
+    <td align="center" width="60%">
+      <strong>Connect with me</strong><br/><br/>
 
-</p>
-<p align="left">
   <a href="https://github.com/RATUL2060" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dhrubo-ratul-b-a12253236" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/dhrubo_ratul2060" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://linkedin.com/in/dhrubo-ratul-b-a12253236" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://instagram.com/dhrubo_ratul2060" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+      </a>
+    </td>
+<!-- RIGHT: CV + Portfolio -->
+  <td align="center" width="40%">
+      <strong>CV & Portfolio</strong><br/><br/>
+
   <a href="https://ratul2060.github.io" target="_blank" title="View CV">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" alt="CV" />
-  </a>
-</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://ratul2060.github.io/portfolio" target="_blank" title="Portfolio Website">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
