@@ -119,6 +119,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
 
 </p>
 
