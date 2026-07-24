@@ -78,7 +78,7 @@
             </a>
           </td>
           <td align="center">
-            <a href="https://ratul2060.github.io/portfolio" target="_blank">
+            <a href="https://ratul2060.github.io/portfolio](https://dhruboratulbasak.netlify.app/#accomplishments" target="_blank">
               <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="42"/>
             </a>
           </td>
